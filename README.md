@@ -1,9 +1,9 @@
-<p align='center'><img src="https://www.freecodecamp.org/news/a-practical-introduction-to-docker-compose/" height='500px'></p>
+![](../Загрузки/docker.png)
+
 
 ###Будет полезным для тех кто начал изучать docker | docker-compose
 
 Все описал внутри понятным языком УДАЧИ 😉
-
 
 
 1 $ docker-compose build
