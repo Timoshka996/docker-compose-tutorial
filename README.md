@@ -1,6 +1,3 @@
-![] https://www.freecodecamp.org/news/a-practical-introduction-to-docker-compose/
-
-
 ###Будет полезным для тех кто начал изучать docker | docker-compose
 
 Все описал внутри понятным языком УДАЧИ 😉
