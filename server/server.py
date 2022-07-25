@@ -18,4 +18,5 @@ with socketserver.TCPServer(("", 1234), handler) as httpd:
 
     # Благодаря этой команде сервер будет выполняться постоянно, ожидая запросов от клиента.
 
+    
    httpd.serve_forever()
