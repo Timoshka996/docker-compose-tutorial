@@ -10,6 +10,7 @@ import socketserver
 
 # Эта переменная нужна для обработки запросов клиента к серверу.
 
+
 handler = http.server.SimpleHTTPRequestHandler
 
 # Тут мы указываем, что сервер мы хотим запустить на порте 1234.
