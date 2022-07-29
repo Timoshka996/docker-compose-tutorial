@@ -13,6 +13,7 @@ FROM python:latest
 # Второй параметр, '/server/', это путь, по которому нужно разместить указанный файл в образе.
 # Здесь мы помещаем файл в папку образа '/server/'.
 
+
 ADD server.py /server/
 ADD index.html /server/
 
