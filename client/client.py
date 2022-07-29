@@ -28,6 +28,7 @@ decodedContent = encodedContent.decode("utf8")
 
 print(decodedContent)
 
+
 # Закрываем соединение с сервером.
 
 fp.close()
