@@ -7,6 +7,7 @@
 import http.server
 import socketserver
 
+
 # Эта переменная нужна для обработки запросов клиента к серверу.
 
 handler = http.server.SimpleHTTPRequestHandler
