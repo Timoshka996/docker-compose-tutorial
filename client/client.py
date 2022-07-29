@@ -14,6 +14,7 @@ import urllib.request
 
 fp = urllib.request.urlopen("http://localhost:1234/")
 
+
 # 'encodedContent' соответствует закодированному ответу сервера ('index.html').
 # 'decodedContent' соответствует раскодированному ответу сервера (тут будет то, что мы хотим вывести на экран).
 
