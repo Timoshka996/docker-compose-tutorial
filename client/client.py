@@ -31,4 +31,5 @@ print(decodedContent)
 
 # Закрываем соединение с сервером.
 
+
 fp.close()
