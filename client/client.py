@@ -22,6 +22,7 @@ fp = urllib.request.urlopen("http://localhost:1234/")
 encodedContent = fp.read()
 decodedContent = encodedContent.decode("utf8")
 
+
 # Выводим содержимое файла, полученного с сервера ('index.html').
 
 print(decodedContent)
